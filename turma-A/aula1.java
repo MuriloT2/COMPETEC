@@ -109,16 +109,46 @@ public class aula1 {
 
         //--- Exercicio 7 ---
 
+        // System.out.println("Insira a idade da pessoa A: ");
+        // int idadeA = tec.nextInt();
+
+        // System.out.println("Insira a idade da pessoa B: ");
+        // int idadeB = tec.nextInt();
+
+        // if (idadeA == idadeB) {
+
+        //     System.out.println("A pessoa A tem a mesma idade da pessoa B!");
+
+        //     if (idadeA > 20) {
+        //         System.out.println("A idade da pessoa A é maior de 20 anos!");
+        //     } else {
+        //         System.out.println("A idade da pessoa A é menor de 20 anos!");
+        //     }
+
+        // } else if (idadeA != idadeB) {
+
+        //     System.out.println("Eles tem idades diferentes!");
+
+        //     if (idadeB < 12) {
+        //         System.out.println("A idade da pessoa B é menor de 12 anos!");
+        //     } else {
+        //         System.out.println("A idade da pessoa B é maior de 12 anos!");
+        //     }
+
+        // }
+
         //--- Exercicio 8 ---
 
-        System.out.println("Insira um valor: ");
-        double valor = tec.nextDouble();
+        // System.out.println("Insira um valor: ");
+        // double valor = tec.nextDouble();
 
-        if(valor % 5 == 0 || valor % 3 == 0) {
-            System.out.println("VERDADEIRO");
-        } else {
-            System.out.println("FALSO");
-        }
+        // if(valor % 5 == 0 || valor % 3 == 0) {
+        //     System.out.println("VERDADEIRO");
+        // } else {
+        //     System.out.println("FALSO");
+        // }
+
+        tec.close();
     
     }
     
