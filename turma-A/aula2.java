@@ -74,7 +74,7 @@ public class aula2 {
 
         System.out.println("Números impares até " + n + ":");
 
-        for (int cont = 0; cont < n; cont++) {
+        for (int cont = 0; cont <= n; cont++) {
 
             if (cont % 2 != 0) 
             System.out.println(cont);
