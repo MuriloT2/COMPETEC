@@ -17,6 +17,8 @@ public class desafioCasa1 {
             System.out.println("Nada vê!");
         }
 
+        tec.close();
+
     }
     
 }
