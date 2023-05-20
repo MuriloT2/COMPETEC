@@ -74,17 +74,38 @@ public class aula1 {
 
         //--- Exercicio 5 ---
 
-        //--- Exercicio 6 ---
-
         // System.out.println("Está chovendo?");
         // boolean chuva = tec.nextBoolean();
+
+        // System.out.println("Está nublado?");
+        // boolean nublado = tec.nextBoolean();
         
         // System.out.println("Levei meu guarda chuva?");
         // boolean guarda = tec.nextBoolean();
 
         // if (chuva == true) {
+
         //     System.out.println("Está chovendo!");
-        // } 
+
+        // } else if (nublado == true) {
+
+        //     System.out.println("Está nublado!");
+
+        // } else {
+
+        //     System.out.println("Está ensolarado!");
+
+        // }
+
+        // if (guarda == true) {
+
+        //     System.out.println("Levei meu guarda chuva!");
+
+        // } else {
+
+        //     System.out.println("Não levei meu guarda chuva...");
+
+        // }
 
         //--- Exercicio 7 ---
 
