@@ -45,6 +45,9 @@ public class vacina {
         }
 
 
+        tec.close();
+
+
     }
     
 }

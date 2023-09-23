@@ -30,6 +30,8 @@ public class exerciciosMatrizes {
 
 
         }
+
+        tec.close();
         
 
 
